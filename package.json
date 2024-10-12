@@ -1,0 +1,6 @@
+"homepage": "https://wangx.github.io/ai-frontier",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  // ... other scripts
+}
